@@ -12,5 +12,3 @@ print("в)",(x),"25")
 print("   7 cm",end="          ")
 print("  1949",(v),end="          ")
 print(("  "),(x),(y))
-
-
